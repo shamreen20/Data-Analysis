@@ -49,6 +49,7 @@
 ## Overview
    Tableau is a powerful data visualization tool that allows you to create interactive and shareable dashboards. It can connect to various data sources, making it 
    easy to analyze and present insights.
+   My Tableau Profile: [Link Text](https://public.tableau.com/app/profile/shamreen.tabassum/vizzes)
 
 ## Getting Started
         1. Installation:  Download and install Tableau Desktop. You can get a free trial version from Tableau's official website.
