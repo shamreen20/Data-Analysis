@@ -229,26 +229,16 @@ FROM TableName
 
 
 
+## Contribution
+   Contributions to the Data Analyst Toolkit are welcome! If you have suggestions, improvements, or new content to add, please follow these steps:
 
+   1. Fork the repository.
+   2. Create a new branch for your feature or bug fix.
+   3. Make your changes and commit them with clear messages.
+   4. Push your changes to your fork.
+   5. Open a pull request, explaining the purpose and details of your changes.
 
+## Author
+Shamreen Tabassum or contact me Linkedin[Link Text](https://www.linkedin.com/in/shamreen-tabassum-ab56a2247/)  or Tableau Public[Link Text](https://public.tableau.com/app/profile/shamreen.tabassum/vizzes)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Feel free to reach out with any questions or feedback. Happy analyzing!
